@@ -3,7 +3,25 @@
   <head>
      <title>koperasi</title>
   </head>
-  <body>
+    <body>
+        <div class="row">
+          <div class="card-md-12"></div>
+          <nav aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Library</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Data</li>
+              </ol>
+          </nav>
+        </div>
+        <div class="card" style="width: 18rem;">
+         <img src="index.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">koperasi</h5>
+                <p class="card-text"></p>
+                 <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+        </div>
     <h1>Koperasi adalah sebuah organisasi ekonomi yang dimiliki dan dioperasikan oleh orang-seorang demi kepentingan bersama.[1] Koperasi melandaskan kegiatan berdasarkan prinsip gerakan ekonomi rakyat yang berdasarkan asas kekeluargaan.[2]
 Prinsip
 
